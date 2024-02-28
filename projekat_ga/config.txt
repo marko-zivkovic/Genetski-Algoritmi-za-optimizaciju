@@ -1,0 +1,15 @@
+Broj-uzastopnih-ponovnih-pokretan: 3
+Veličinu-populacije1: 10
+Veličinu-populacije2: 50
+Veličinu-populacije3: 90
+Veličinu-populacija-itr: 150
+Broj-jedinki-za-parenje: 3
+Broj-jedinki-za-mutaciju-%: 30
+Broj-jedinki-koje-se-izbacuju: 0.7
+Random-seed: 270
+param_left_bound: -3
+param_right_bound: 3
+Duzina-hromozoma: 10
+exe_location: ./projekat_ga/k.exe
+Duzina-populacije-parenja: 10
+rez_locatin: rez.txt

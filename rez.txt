@@ -1,0 +1,117 @@
+ZADATAK 1
+[najmanji trosak] 2308.29 [srednji trosak] 10603.36 pop-> 1
+[najmanji trosak] 2308.29 [srednji trosak] 10295.87 pop-> 2
+[najmanji trosak] 1291.5 [srednji trosak] 7203.84 pop-> 3
+[najmanji trosak] 1291.5 [srednji trosak] 6217.89 pop-> 4
+[najmanji trosak] 1291.5 [srednji trosak] 5896.34 pop-> 5
+[najmanji trosak] 1291.5 [srednji trosak] 5278.94 pop-> 6
+[najmanji trosak] 1291.5 [srednji trosak] 5278.94 pop-> 7
+[najmanji trosak] 1291.5 [srednji trosak] 5278.94 pop-> 8
+[najmanji trosak] 1291.5 [srednji trosak] 5278.94 pop-> 9
+[najmanji trosak] 1291.5 [srednji trosak] 5278.94 pop-> 10
+[najmanji trosak] 1291.5 [srednji trosak] 5160.68 pop-> 11
+[najmanji trosak] 1291.5 [srednji trosak] 4138.36 pop-> 12
+[najmanji trosak] 1291.5 [srednji trosak] 3905.53 pop-> 13
+[najmanji trosak] 1291.5 [srednji trosak] 3553.82 pop-> 14
+[najmanji trosak] 1291.5 [srednji trosak] 3208.2 pop-> 15
+[najmanji trosak] 1291.5 [srednji trosak] 2891.52 pop-> 16
+[najmanji trosak] 1291.5 [srednji trosak] 2710.74 pop-> 17
+[najmanji trosak] 1291.5 [srednji trosak] 2710.74 pop-> 18
+[najmanji trosak] 1291.5 [srednji trosak] 2710.74 pop-> 19
+[najmanji trosak] 1291.5 [srednji trosak] 2710.74 pop-> 20
+NAJBOLJI HROMOZOM - bitovi
+[0, 1, 0, 0, 0, 0, 0, 1, 0, 0] d_code 0.00146484375
+[1, 0, 0, 1, 1, 0, 1, 0, 0, 0] d_code 0.25146484375
+[1, 0, 1, 0, 1, 0, 1, 0, 0, 1] d_code 0.25146484375
+[1, 1, 1, 1, 1, 1, 1, 0, 1, 0] d_code 3.25146484375
+[0, 1, 0, 0, 0, 0, 0, 1, 0, 0] d_code 0.00146484375
+[1, 1, 0, 1, 1, 0, 1, 0, 1, 1] d_code 0.75146484375
+[0, 1, 0, 1, 1, 0, 0, 1, 0, 1] d_code 0.00146484375
+[1, 0, 0, 0, 1, 1, 1, 1, 0, 0] d_code 0.25146484375
+[1, 0, 1, 0, 0, 0, 0, 0, 1, 1] d_code 0.25146484375
+[1, 0, 1, 1, 0, 1, 1, 1, 1, 0] d_code 0.25146484375
+[1, 1, 0, 0, 1, 0, 0, 1, 0, 1] d_code 0.75146484375
+[1, 1, 1, 1, 1, 1, 0, 1, 0, 0] d_code 2.75146484375
+[1, 1, 0, 1, 1, 0, 0, 0, 0, 1] d_code 0.75146484375
+[0, 0, 0, 1, 1, 0, 0, 0, 0, 0] d_code 0.50146484375
+[1, 1, 0, 1, 1, 1, 1, 1, 1, 1] d_code 0.75146484375
+[1, 1, 1, 0, 0, 0, 1, 0, 1, 0] d_code 1.25146484375
+[0, 0, 1, 1, 0, 0, 1, 1, 0, 1] d_code 0.25146484375
+[1, 0, 1, 0, 1, 1, 0, 1, 1, 1] d_code 0.25146484375
+[0, 1, 0, 1, 0, 1, 0, 0, 0, 1] d_code 0.00146484375
+[1, 1, 0, 0, 0, 1, 0, 1, 0, 1] d_code 0.75146484375
+[1, 1, 1, 1, 1, 0, 1, 1, 0, 1] d_code 2.25146484375
+[1, 0, 1, 1, 1, 0, 1, 0, 1, 0] d_code 0.25146484375
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 1] d_code 1.50146484375
+[0, 0, 0, 0, 0, 1, 0, 0, 1, 0] d_code 1.00146484375
+[0, 1, 0, 1, 1, 0, 1, 0, 1, 0] d_code 0.00146484375
+[1, 0, 1, 1, 0, 1, 1, 1, 0, 0] d_code 0.25146484375
+[1, 0, 0, 0, 0, 1, 0, 0, 1, 1] d_code 0.25146484375
+[0, 1, 0, 0, 1, 1, 0, 1, 0, 1] d_code 0.00146484375
+[0, 0, 1, 1, 1, 0, 1, 1, 0, 1] d_code 0.25146484375
+[0, 1, 0, 0, 0, 1, 1, 0, 0, 0] d_code 0.00146484375
+[0, 1, 1, 0, 0, 1, 0, 1, 1, 0] d_code 0.00146484375
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1] d_code -0.74853515625
+[0, 1, 0, 1, 1, 1, 1, 0, 1, 1] d_code 0.00146484375
+ZADATAK 2
+[najmanji trosak] 9267.78 [srednji trosak] 12003.12 pop-> 1
+[najmanji trosak] 7926.47 [srednji trosak] 11379.08 pop-> 2
+[najmanji trosak] 7926.47 [srednji trosak] 11054.18 pop-> 3
+[najmanji trosak] 7926.47 [srednji trosak] 10811.16 pop-> 4
+[najmanji trosak] 7926.47 [srednji trosak] 10375.6 pop-> 5
+[najmanji trosak] 6943.16 [srednji trosak] 9773.44 pop-> 6
+[najmanji trosak] 6943.16 [srednji trosak] 9434.07 pop-> 7
+[najmanji trosak] 5746.12 [srednji trosak] 8907.13 pop-> 8
+[najmanji trosak] 5746.12 [srednji trosak] 8542.83 pop-> 9
+[najmanji trosak] 5746.12 [srednji trosak] 8542.83 pop-> 10
+[najmanji trosak] 5746.12 [srednji trosak] 7961.42 pop-> 11
+[najmanji trosak] 5746.12 [srednji trosak] 7961.42 pop-> 12
+[najmanji trosak] 5746.12 [srednji trosak] 7961.42 pop-> 13
+[najmanji trosak] 5746.12 [srednji trosak] 7805.61 pop-> 14
+[najmanji trosak] 3077.24 [srednji trosak] 7096.88 pop-> 15
+[najmanji trosak] 3077.24 [srednji trosak] 6531.96 pop-> 16
+[najmanji trosak] 3077.24 [srednji trosak] 6531.96 pop-> 17
+[najmanji trosak] 1613.25 [srednji trosak] 5385.34 pop-> 18
+[najmanji trosak] 1613.25 [srednji trosak] 5385.34 pop-> 19
+[najmanji trosak] 1613.25 [srednji trosak] 5157.05 pop-> 20
+NAJBOLJI HROMOZOM - bitovi
+[1, 1, 1, 1, 0, 1, 0, 1, 1, 1] d_code 1.75146484375
+[1, 1, 1, 0, 0, 1, 1, 0, 0, 1] d_code 1.25146484375
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0] d_code 1.00146484375
+[0, 0, 1, 1, 1, 0, 1, 0, 0, 0] d_code 0.25146484375
+[1, 0, 1, 0, 1, 0, 1, 1, 1, 1] d_code 0.25146484375
+[1, 0, 1, 1, 1, 0, 0, 0, 0, 0] d_code 0.25146484375
+[0, 0, 1, 0, 1, 0, 0, 1, 1, 0] d_code 0.25146484375
+[1, 1, 0, 1, 0, 0, 1, 0, 0, 1] d_code 0.75146484375
+[1, 0, 1, 0, 1, 1, 1, 1, 0, 0] d_code 0.25146484375
+[1, 0, 1, 1, 0, 0, 1, 1, 0, 1] d_code 0.25146484375
+[0, 0, 0, 0, 1, 0, 0, 1, 1, 1] d_code 0.75146484375
+[0, 1, 0, 0, 1, 0, 1, 1, 1, 0] d_code 0.00146484375
+[1, 1, 1, 1, 1, 0, 1, 0, 1, 0] d_code 2.25146484375
+[1, 1, 0, 1, 1, 1, 1, 0, 0, 0] d_code 0.75146484375
+[0, 1, 0, 0, 0, 0, 0, 1, 0, 1] d_code 0.00146484375
+[1, 1, 0, 1, 0, 1, 1, 0, 1, 1] d_code 0.75146484375
+[1, 1, 0, 1, 1, 0, 1, 0, 1, 0] d_code 0.75146484375
+[0, 1, 0, 1, 0, 0, 1, 1, 0, 0] d_code 0.00146484375
+[1, 0, 0, 0, 1, 0, 0, 0, 1, 0] d_code 0.25146484375
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1] d_code -0.74853515625
+[1, 1, 1, 1, 1, 1, 0, 1, 0, 1] d_code 2.75146484375
+[0, 1, 0, 1, 0, 0, 1, 0, 1, 1] d_code 0.00146484375
+[1, 1, 0, 1, 1, 0, 1, 1, 0, 0] d_code 0.75146484375
+[0, 0, 0, 0, 1, 1, 1, 0, 0, 0] d_code 0.75146484375
+[1, 0, 0, 0, 1, 0, 1, 1, 0, 1] d_code 0.25146484375
+[0, 1, 0, 1, 1, 1, 1, 0, 1, 0] d_code 0.00146484375
+[1, 1, 0, 1, 1, 1, 0, 0, 1, 1] d_code 0.75146484375
+[0, 1, 1, 1, 0, 0, 1, 1, 1, 1] d_code 0.00146484375
+[0, 0, 1, 1, 0, 1, 1, 1, 0, 0] d_code 0.25146484375
+[0, 0, 1, 0, 1, 1, 0, 1, 0, 1] d_code 0.25146484375
+[1, 1, 0, 0, 0, 0, 0, 0, 1, 1] d_code 0.75146484375
+[0, 1, 1, 0, 1, 1, 0, 1, 1, 0] d_code 0.00146484375
+[0, 1, 0, 0, 1, 0, 0, 0, 1, 0] d_code 0.00146484375
+ZADATAK 3
+[najmanji trosak] 6483.79 [srednji trosak] 9860.01 pop-> 1
+[najmanji trosak] 6483.79 [srednji trosak] 9098.62 pop-> 2
+[najmanji trosak] 6483.79 [srednji trosak] 9034.82 pop-> 3
+[najmanji trosak] 6483.79 [srednji trosak] 8961.63 pop-> 4
+[najmanji trosak] 6483.79 [srednji trosak] 8804.83 pop-> 5
+[najmanji trosak] 6483.79 [srednji trosak] 8804.83 pop-> 6

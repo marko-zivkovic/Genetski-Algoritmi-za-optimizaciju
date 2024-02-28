@@ -1,0 +1,13 @@
+Program je radjen u Java jeziku uz pomoc programa "IntelliJ IDEA Community Edition 2022.2.3" kao radno okruzenje.
+JDK koji sam korisnio je jdk1.8 ali moze bilo koji.
+
+Eksterne biblioteke - Nema stranih biblioteka, sve je deo JDKa.
+
+Nacin konfigurisanja programa - sve promenjljive su dostupne u "config.txt", ostale stvari su deo implementacije.
+
+Resenje - resenje se ispisuje u fajl "rez.txt".
+
+Funkcija troska (k.c) i njen exe fajl se nalaze u istom folderu "projekat_ga".
+
+Pokretanje - pokretanje je preporucljivo odraditi u Intellij programu radi boljeg pokretanja. Verzija nije bitna.
+Sve se moze podesiti od ulaznih parametra preko konfiguracionog fajla i pokrenuti preko start dugmeta.
